@@ -1,0 +1,27 @@
+{
+	"atomic_save": false,
+	"auto_indent": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
+	"copy_with_empty_selection": false,
+	"detect_indentation": true,
+	"detect_slow_plugins": false,
+	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
+	"font_size": 8,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"smart_indent": true,
+	"status_bar_brighter": true,
+	"tab_size": 4,
+	"tabs_medium": true,
+	"theme": "Afterglow.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

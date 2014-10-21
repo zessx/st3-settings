@@ -1,0 +1,23 @@
+{
+
+    "cmd": [
+        "sass",
+        "--update",
+        "--stop-on-error",
+        "--no-cache",
+        "--load-path", "${file_path}",
+        "--trace",
+        "--sourcemap=none",
+        "$file:${file_path}/../css/${file_base_name}.min.css",
+    ],
+
+    "line_regex": "Line ([0-9]+):",
+
+    "osx": {
+        "path": "/usr/local/bin:$PATH"
+    },
+    "windows": {
+        "shell": "true"
+    }
+
+}

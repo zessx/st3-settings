@@ -1,0 +1,31 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"jQuery",
+		"Language - French - Français",
+		"OmniMarkupPreviewer",
+		"PackageResourceViewer",
+		"PHP-Twig",
+		"Phpcs",
+		"Sass",
+		"SassBeautify",
+		"SideBarEnhancements",
+		"SPIP",
+		"SqlBeautifier",
+		"SublimeCodeIntel",
+		"SublimeOnSaveBuild",
+		"Text Pastry",
+		"Theme - Afterglow"
+	]
+}

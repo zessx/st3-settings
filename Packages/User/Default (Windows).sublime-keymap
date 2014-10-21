@@ -1,0 +1,59 @@
+[
+	// File management
+	{
+		"keys": ["ctrl+shift+r"],
+		"command": "reindent"
+	},
+	{
+		"keys": ["alt+space"],
+		"command": "code_intel_auto_complete"
+	},
+
+	// Console management
+	{
+		"keys": ["ctrl+w"],
+		"command": "show_panel",
+		"args": {
+			"panel": "console", "toggle": true
+		}
+	},
+
+	// Browser management
+	{
+		"keys": ["ctrl+q"],
+		"command": "browser_refresh",
+		"args": {
+			"auto_save": true,
+			"delay": 0.0,
+			"activate_browser": false,
+			"browser_name" : "Google Chrome"
+		}
+	},
+
+	// Project management
+	{
+		"keys": ["alt+right"],
+		"command": "goto_python_definition"
+	},
+	{
+		"keys": ["alt+left"],
+		"command": "back_to_python_definition"
+	},
+
+	// Group management
+	{
+		"keys": ["ctrl+keypad_plus"],
+		"command": "new_pane"
+	},
+	{
+		"keys": ["ctrl+shift+keypad_plus"],
+		"command": "new_pane",
+		"args": {
+			"move": false
+		}
+	},
+	{
+		"keys": ["ctrl+keypad_minus"],
+		"command": "close_pane"
+	},
+]

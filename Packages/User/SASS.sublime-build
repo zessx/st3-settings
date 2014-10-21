@@ -1,0 +1,34 @@
+{
+
+    "cmd": [
+        "sass",
+        "--update",
+        "--stop-on-error",
+        "--no-cache",
+        "--load-path", "${file_path}",
+        "--style", "compressed",
+        "--sourcemap=none",
+        "$file:../${file_base_name}.min.css",
+
+        "&",
+
+        "sass",
+        "--update",
+        "--stop-on-error",
+        "--no-cache",
+        "--load-path", "${file_path}",
+        "--sourcemap=none",
+        "$file:../${file_base_name}.css"
+    ],
+
+    "selector": "source.sass, source.scss",
+    "line_regex": "Line ([0-9]+):",
+
+    "osx": {
+        "path": "/usr/local/bin:$PATH"
+    },
+    "windows": {
+        "shell": "true"
+    }
+
+}
