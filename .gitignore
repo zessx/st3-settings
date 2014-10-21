@@ -1,0 +1,15 @@
+*
+!.gitignore
+!README.md
+
+!Installed Packages
+Installed Packages/*
+!Installed Packages/Package Control.sublime-package
+
+!Packages
+Packages/*
+!Packages/User
+Packages/User/*
+!Packages/User/*.sublime-keymap
+!Packages/User/*.sublime-settings
+!Packages/User/*.sublime-build
