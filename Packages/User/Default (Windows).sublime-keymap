@@ -139,14 +139,14 @@
 	// Group management
 	{
 		"keys": ["ctrl+keypad_plus"],
-		"command": "new_pane"
-	},
-	{
-		"keys": ["ctrl+shift+keypad_plus"],
 		"command": "new_pane",
 		"args": {
 			"move": false
 		}
+	},
+	{
+		"keys": ["ctrl+alt+keypad_plus"],
+		"command": "new_pane"
 	},
 	{
 		"keys": ["ctrl+keypad_minus"],
