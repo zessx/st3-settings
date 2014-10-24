@@ -8,7 +8,7 @@
         "--load-path", "${file_path}",
         "--trace",
         "--sourcemap=none",
-        "$file:${file_path}/../css/${file_base_name}.min.css",
+        "$file:../${file_base_name}.css",
     ],
 
     "line_regex": "Line ([0-9]+):",
