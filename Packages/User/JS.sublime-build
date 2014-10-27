@@ -4,7 +4,7 @@
         "uglifyjs",
         "$file",
         "--output", "${file_path}/${file_base_name}.min.js",
-        "--compress",
+        "--compress", "unused=false",
         "--mangle",
         "--screw-ie8",
         "--enclose",
