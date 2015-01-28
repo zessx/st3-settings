@@ -6,6 +6,7 @@
         "--stop-on-error",
         "--no-cache",
         "--load-path", "${file_path}",
+        "--force",
         "--trace",
         "--line-numbers",
         "--sourcemap=none",
