@@ -7,6 +7,7 @@
         "--no-cache",
         "--load-path", "${file_path}",
         "--trace",
+        "--line-numbers",
         "--sourcemap=none",
         "$file:../${file_base_name}.css",
     ],
