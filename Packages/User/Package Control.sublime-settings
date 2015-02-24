@@ -2,15 +2,11 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
 		"Alignment",
 		"AutoFileName",
+		"Autoprefixer",
 		"BracketHighlighter",
 		"Browser Refresh",
 		"DocBlockr",
@@ -32,7 +28,6 @@
 		"SPIP",
 		"SqlBeautifier",
 		"SublimeCodeIntel",
-		"SublimeOnSaveBuild",
 		"Text Pastry",
 		"Theme - Afterglow"
 	]
