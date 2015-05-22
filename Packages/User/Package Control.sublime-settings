@@ -17,19 +17,19 @@
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
+		"Insert Nums",
 		"jQuery",
 		"Language - French - Français",
 		"OmniMarkupPreviewer",
 		"Package Control",
 		"PackageResourceViewer",
-		"PHP-Twig",
 		"Phpcs",
 		"Sass",
 		"SideBarEnhancements",
 		"SPIP",
 		"SqlBeautifier",
 		"SublimeCodeIntel",
-		"Text Pastry",
-		"Theme - Afterglow"
+		"Theme - Afterglow",
+		"TodoReview"
 	]
 }

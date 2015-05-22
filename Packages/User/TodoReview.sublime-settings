@@ -1,0 +1,10 @@
+{
+    "patterns": {
+        "TODO": "TODO[\\s]*?:[\\s]*(?P<todo>.*)$",
+        "DUMP": "(?:var_|Debug::)dump\\((?P<dump>.*)\\)"
+    },
+    "patterns_weight": {
+        "TODO": 1,
+        "DUMP": 2
+    }
+}
