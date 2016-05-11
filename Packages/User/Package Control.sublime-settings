@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -8,6 +9,7 @@
 		"AlignTab",
 		"BracketHighlighter",
 		"Browser Refresh",
+		"CSS3",
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
@@ -15,14 +17,19 @@
 		"HTML5",
 		"Insert Nums",
 		"jQuery",
+		"JSON Reindent",
 		"Language - French - Français",
 		"OmniMarkupPreviewer",
 		"Package Control",
 		"PackageResourceViewer",
+		"Print to HTML",
 		"Sass",
 		"SideBarEnhancements",
+		"Sort Lines (Numerically)",
 		"SqlBeautifier",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
 		"Theme - Afterglow",
 		"TodoReview"
 	]

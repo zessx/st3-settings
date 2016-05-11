@@ -24,18 +24,6 @@
 		}
 	},
 
-	// Browser management
-	{
-		"keys": ["ctrl+q"],
-		"command": "browser_refresh",
-		"args": {
-			"auto_save": true,
-			"delay": 0.0,
-			"activate_browser": false,
-			"browser_name" : "Google Chrome"
-		}
-	},
-
 	// Project management
 	{
 		"keys": ["alt+right"],
