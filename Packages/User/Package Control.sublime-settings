@@ -12,6 +12,7 @@
 		"CSS3",
 		"DocBlockr",
 		"Emmet",
+		"FakeDataGenerator",
 		"FileDiffs",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
@@ -28,8 +29,6 @@
 		"Sort Lines (Numerically)",
 		"SqlBeautifier",
 		"SublimeCodeIntel",
-		"SublimeLinter",
-		"SublimeLinter-php",
 		"Theme - Afterglow",
 		"TodoReview"
 	]
