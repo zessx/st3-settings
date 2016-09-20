@@ -16,4 +16,5 @@ Packages/User/*
 !Packages/User/*.sublime-keymap
 !Packages/User/*.sublime-settings
 !Packages/User/*.sublime-build
+!Packages/User/*.sublime-snippet
 Packages/User/TextPastryHistory.sublime-settings
