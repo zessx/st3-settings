@@ -3,11 +3,19 @@
 	"auto_indent": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Afterglow-monokai (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
 	"copy_with_empty_selection": false,
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
 	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
 	"font_size": 8,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
